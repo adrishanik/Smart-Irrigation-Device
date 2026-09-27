@@ -21,9 +21,35 @@ The project exists because the farmer need this project .The farmers known that 
 
 
 <img width="1280" height="960" alt="WhatsApp Image 2026-09-27 at 6 36 37 PM (1)" src="https://github.com/user-attachments/assets/1f9377c2-5554-413f-9635-de67f0141e6b" />
+
 ## Water Pump
 
 <img width="960" height="1280" alt="WhatsApp Image 2026-09-27 at 6 36 09 PM" src="https://github.com/user-attachments/assets/1170b8be-e31e-4cd4-91e2-9de7e934cff7" />
+
+## Esp8266
+
+<img width="960" height="1280" alt="WhatsApp Image 2026-09-27 at 6 36 10 PM" src="https://github.com/user-attachments/assets/f6c60ed5-bc48-4654-a73e-c56b6dfb52ba" />
+
+## Relay Modul
+
+<img width="960" height="1280" alt="WhatsApp Image 2026-09-27 at 6 36 12 PM" src="https://github.com/user-attachments/assets/addd615f-44ea-486f-80b0-6079262ec4bb" />
+
+## 7 segment
+
+<img width="960" height="1280" alt="WhatsApp Image 2026-09-27 at 6 36 12 PM (1)" src="https://github.com/user-attachments/assets/91e8a8c6-e5be-4fd9-acc4-266e121ed139" />
+
+## 74HC595 Shifting Register
+
+<img width="1280" height="960" alt="WhatsApp Image 2026-09-27 at 6 36 13 PM" src="https://github.com/user-attachments/assets/f8e50d79-6e9d-4df9-b2d9-3f568d1db7cd" />
+
+## 220k ohm register
+
+<img width="1280" height="960" alt="WhatsApp Image 2026-09-27 at 6 36 37 PM" src="https://github.com/user-attachments/assets/9202be2e-f2e3-487d-996d-242a700ec3de" />
+
+# 
+
+
+
 
 
 
