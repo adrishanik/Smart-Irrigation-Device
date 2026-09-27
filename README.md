@@ -46,7 +46,9 @@ The project exists because the farmer need this project .The farmers known that 
 
 <img width="1280" height="960" alt="WhatsApp Image 2026-09-27 at 6 36 37 PM" src="https://github.com/user-attachments/assets/9202be2e-f2e3-487d-996d-242a700ec3de" />
 
-# LICENSE 
+# MIT LICENSE :-
+
+https://github.com/adrishanik/Smart-Irrigation-Device/blob/main/LICENSE
 
 
 
