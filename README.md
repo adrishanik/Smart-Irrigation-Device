@@ -10,6 +10,9 @@ The project also have a unique feature that connect with computer,phone,tablet,l
 The project exists because the farmer need this project .The farmers known that the project contain less water but grow crops more.
 # Wiring of Components
 <img width="858" height="433" alt="quickshot_260927_171705" src="https://github.com/user-attachments/assets/3b0d236e-6212-4b80-8150-3aad068d24b0" />
+
+
+
 # Names of Components that use in project
 
 
@@ -19,6 +22,7 @@ The project exists because the farmer need this project .The farmers known that 
 
 <img width="1280" height="960" alt="WhatsApp Image 2026-09-27 at 6 36 37 PM (1)" src="https://github.com/user-attachments/assets/1f9377c2-5554-413f-9635-de67f0141e6b" />
 ## Water Pump
+
 <img width="960" height="1280" alt="WhatsApp Image 2026-09-27 at 6 36 09 PM" src="https://github.com/user-attachments/assets/1170b8be-e31e-4cd4-91e2-9de7e934cff7" />
 
 
