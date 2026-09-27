@@ -11,6 +11,8 @@ The project exists because the farmer need this project .The farmers known that 
 # Wiring of Components
 <img width="858" height="433" alt="quickshot_260927_171705" src="https://github.com/user-attachments/assets/3b0d236e-6212-4b80-8150-3aad068d24b0" />
 # Names of Components that use in project
+
+
 ## Soil Moisture Sensor
 <img width="960" height="1280" alt="WhatsApp Image 2026-09-27 at 6 36 09 PM (1)" src="https://github.com/user-attachments/assets/40e2613e-c3b9-45b2-85fc-e223eb481a25" />
 
