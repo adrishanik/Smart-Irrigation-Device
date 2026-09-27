@@ -30,7 +30,7 @@ The project exists because the farmer need this project .The farmers known that 
 
 <img width="960" height="1280" alt="WhatsApp Image 2026-09-27 at 6 36 10 PM" src="https://github.com/user-attachments/assets/f6c60ed5-bc48-4654-a73e-c56b6dfb52ba" />
 
-## Relay Modul
+## Relay Module
 
 <img width="960" height="1280" alt="WhatsApp Image 2026-09-27 at 6 36 12 PM" src="https://github.com/user-attachments/assets/addd615f-44ea-486f-80b0-6079262ec4bb" />
 
