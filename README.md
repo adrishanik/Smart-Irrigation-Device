@@ -116,11 +116,11 @@ https://app.cirkitdesigner.com/project/4d06b13d-34ea-44fa-910b-c3c450ef1405
 | 1K RESISTER                |               12 |              ₹20 |             $6.00 | [link](https://www.amazon.in/Electronic-Spices-Tolerance-Through-Resistors/dp/B0BF4ZY1KV/ref=sr_1_7?sr=8-7)    |
 | 3.7V lITHIUM BATERRY       |                2 |              ₹350 |             $6.00 | [link](https://www.amazon.in/2000mAh-Rechargeable-Battery-Lithium-Universal/dp/B0H31DCNBH/ref=sr_1_7?sr=8-7)    |
 | 3.7V TO 3.3V CONVERTER     |                1 |              ₹235 |             $6.00 | [link](https://www.amazon.in/Pro3D-DC-DC-Boost-Converter-Module/dp/B0CV9H28MV/ref=sr_1_3?sr=8-3)    |
-| CHARGING MODULE            |                1 |              ₹500 |             $6.00 | [link](https://example.com)    |
-| SOLDERING IRON             |                1 |              ₹500 |             $6.00 | [link](https://example.com)    |
-| SOLDERING WIRE             |                2 |              ₹500 |             $6.00 | [link](https://example.com)    |
-| SOLDERING FLUX             |                1 |              ₹500 |             $6.00 | [link](https://example.com)    |
-| MULTIMETER                 |                1 |              ₹500 |             $6.00 | [link](https://example.com)    |
+| CHARGING MODULE            |                1 |              ₹37 |             $6.00 | [link](https://www.amazon.in/SP-Overcharge-Over-Current-Protection-Module/dp/B0H4GVXDQH/ref=sr_1_6?sr=8-6)    |
+| SOLDERING IRON             |                1 |              ₹110 |             $6.00 | [link](https://www.amazon.in/Hillgrove-Electronic-Soldering-Equipment-Machine/dp/B0GM162J2S/ref=sr_1_20?sr=8-20)    |
+| SOLDERING WIRE             |                2 |              ₹50|             $6.00 | [link](https://www.amazon.in/Hillgrove-Electronic-Soldering-Equipment-Machine/dp/B0GM162J2S/ref=sr_1_20?sr=8-20)    |
+| SOLDERING FLUX             |                1 |              ₹10 |             $6.00 | [link](https://www.amazon.in/Hillgrove-Electronic-Soldering-Equipment-Machine/dp/B0GM162J2S/ref=sr_1_20?sr=8-20)    |
+| MULTIMETER                 |                1 |              ₹150 |             $6.00 | [link](https://www.amazon.in/Electronic-Spices-Multimeter-Multipurpose-Electric/dp/B09JCJBS35/ref=sr_1_6?sr=8-6)    |
 | BREAD BOARD                |                1 |              ₹249 |             $6.00 | [link](https://www.amazon.in/VIREXON-Breadboard-Compatible-Electronics-Beginners/dp/B0H93XL1NT/ref=sr_1_5_sspa?sr=8-5-spons&aref=SK516vqIt2&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)    |
 
 
