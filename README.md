@@ -1,5 +1,5 @@
 # Thumbnail
-<img width="936" height="1700" alt="WhatsApp Image 2026-09-27 at 6 36 08 PM" src="https://github.com/user-attachments/assets/920e855f-a005-486e-9a6f-d6dd8cedf3e8" />
+<img width="936" height="1000" alt="WhatsApp Image 2026-09-27 at 6 36 08 PM" src="https://github.com/user-attachments/assets/920e855f-a005-486e-9a6f-d6dd8cedf3e8" />
 
 # Smart-Irrigation-System
 ## What my project 
