@@ -111,7 +111,7 @@ https://app.cirkitdesigner.com/project/4d06b13d-34ea-44fa-910b-c3c450ef1405
 | 7SEGMENT DISPLAY           |                3 |              ₹120 |             $1.25| [link](https://www.amazon.in/Prakti-Segment-Display-Common-Anode/dp/B0C242CV5S/ref=sr_1_5?sr=8-5)    |
 | 74HC595 SHIFTING REGISTER  |                1 |              ₹60  |             $0.63| [link](https://www.amazon.in/ICSTORE-SN74HC595N-74HC595-parallel-register/dp/B0D8ZT5ZHC/ref=sr_1_1?sr=8-1)    |
 | WATER PUMP                 |                1 |              ₹69  |             $0.72 | [link](https://www.amazon.in/UNIVERSAL-HUB-School-Projects-Models/dp/B0FVFF59M1/ref=sr_1_12?sr=8-12)    |
-| RELAY MODULE               |                2 |              142 |             $1048 | [link](https://www.amazon.in/SP-Electron-Channel-Trigger-Module/dp/B0H48M9D5G/ref=sr_1_6?sr=8-6)    | 
+| RELAY MODULE               |                2 |              142 |             $1.48 | [link](https://www.amazon.in/SP-Electron-Channel-Trigger-Module/dp/B0H48M9D5G/ref=sr_1_6?sr=8-6)    | 
 | 220K RESISTER              |               12 |              ₹20  |             $0.21 | [link](https://www.amazon.in/JIVITH-Resistor-Through-Hole-Electronics-Projects/dp/B0HGBF368G/ref=sr_1_18?sr=8-18)    |
 | 1K RESISTER                |               12 |              ₹20 |             $0.21 | [link](https://www.amazon.in/Electronic-Spices-Tolerance-Through-Resistors/dp/B0BF4ZY1KV/ref=sr_1_7?sr=8-7)    |
 | 3.7V lITHIUM BATERRY       |                2 |              ₹350 |             $3.65 | [link](https://www.amazon.in/2000mAh-Rechargeable-Battery-Lithium-Universal/dp/B0H31DCNBH/ref=sr_1_7?sr=8-7)    |
