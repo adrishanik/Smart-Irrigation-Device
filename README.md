@@ -105,14 +105,14 @@ https://app.cirkitdesigner.com/project/4d06b13d-34ea-44fa-910b-c3c450ef1405
 
 # Bill Of Material
 | Name                     | Quantity        | Total Cost in INR         | Total Cost in USD    |  Link                    |
-|:------------------------|:----------------:|---------------------:|------------------:|:-------------------------------|
-| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    | | ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    | | ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    | 
-| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
-| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
-| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
-| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
-| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
-| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
+|:---------------------------|:----------------:|------------------:|------------------:|:-------------------------------|
+| ESP8266                    |                2 |              ₹500 |             $6.00 | [link](https://example.com)    | | POTNTIOMETER               |                2 |              ₹500 |             $6.00 | [link](https://example.com)    | | LCD DISPLAY 16 X 2         |                2 |              ₹500 |             $6.00 | [link](https://example.com)    | 
+| SOIL MOISTURE SENSOR       |                2 |              ₹500 |             $6.00 | [link](https://example.com)    |
+| 7SEGMENT DISPLAY           |                2 |              ₹500 |             $6.00 | [link](https://example.com)    |
+| 74HC595 SHIFTING REGISTER  |                2 |              ₹500 |             $6.00 | [link](https://example.com)    |
+| WATER PUMP                 |                2 |              ₹500 |             $6.00 | [link](https://example.com)    |
+| RELAY MODULE               |                2 |              ₹500 |             $6.00 | [link](https://example.com)    |  
+| 220K RESISTER              |                2 |              ₹500 |             $6.00 | [link](https://example.com)    |
 | ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
 | ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
 | ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
