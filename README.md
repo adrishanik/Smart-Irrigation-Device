@@ -104,22 +104,24 @@ https://app.cirkitdesigner.com/project/4d06b13d-34ea-44fa-910b-c3c450ef1405
 <img width="1600" height="1200" alt="WhatsApp Image 2026-09-28 at 2 35 46 PM" src="https://github.com/user-attachments/assets/d3355013-e50f-4b93-9e7c-1894cb776eb7" />
 
 # Bill Of Material
-| Name                     | Quantity        | Total Cost in INR         | Total Cost in USD    |  Link                    |
+| Name                       | Quantity         | Total Cost in INR | Total Cost in USD |  Link                          |
 |:---------------------------|:----------------:|------------------:|------------------:|:-------------------------------|
-| ESP8266                    |                2 |              ₹500 |             $6.00 | [link](https://example.com)    | | POTNTIOMETER               |                2 |              ₹500 |             $6.00 | [link](https://example.com)    | | LCD DISPLAY 16 X 2         |                2 |              ₹500 |             $6.00 | [link](https://example.com)    | 
-| SOIL MOISTURE SENSOR       |                2 |              ₹500 |             $6.00 | [link](https://example.com)    |
-| 7SEGMENT DISPLAY           |                2 |              ₹500 |             $6.00 | [link](https://example.com)    |
-| 74HC595 SHIFTING REGISTER  |                2 |              ₹500 |             $6.00 | [link](https://example.com)    |
-| WATER PUMP                 |                2 |              ₹500 |             $6.00 | [link](https://example.com)    |
-| RELAY MODULE               |                2 |              ₹500 |             $6.00 | [link](https://example.com)    |  
-| 220K RESISTER              |                2 |              ₹500 |             $6.00 | [link](https://example.com)    |
-| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
-| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
-| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
-| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
-| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
-| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
-| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
+| ESP8266                    |                1 |              ₹360 |             $6.00 | [link](https://www.amazon.in/Robocraze-NodeMcu-ESP8266-CH340-Development/dp/B093Q2XCG8/ref=sr_1_2_sspa?sr=8-2-spons&aref=n94D0WPQ8K&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)    | | POTNTIOMETER               |                1 |              ₹102 |             $6.00 | [link](https://www.amazon.in/Electronic-Spices-Potentiometer-Shaft-Handle/dp/B0BNDDL7SD/ref=sr_1_21?sr=8-21)    | | LCD DISPLAY 16 X 2         |                1 |              ₹250 |             $6.00 | [link](https://www.amazon.in/KaarBuddy-LCD-Alphanumeric-Compatible-Electronics/dp/B0HHS9LP7S/ref=sr_1_10?sr=8-10)    | 
+| SOIL MOISTURE SENSOR       |                1 |              ₹65 |             $6.00 | [link](https://www.amazon.in/SP-Electron-Output-Soil-Hygrometer-Soil-Sensor-Soil/dp/B0H67DQQG7/ref=sr_1_8?sr=8-8)    |
+| 7SEGMENT DISPLAY           |                3 |              ₹120 |             $6.00 | [link](https://www.amazon.in/Prakti-Segment-Display-Common-Anode/dp/B0C242CV5S/ref=sr_1_5?sr=8-5)    |
+| 74HC595 SHIFTING REGISTER  |                1 |              ₹60  |             $6.00 | [link](https://www.amazon.in/ICSTORE-SN74HC595N-74HC595-parallel-register/dp/B0D8ZT5ZHC/ref=sr_1_1?sr=8-1)    |
+| WATER PUMP                 |                1 |              ₹69  |             $6.00 | [link](https://www.amazon.in/UNIVERSAL-HUB-School-Projects-Models/dp/B0FVFF59M1/ref=sr_1_12?sr=8-12)    |
+| RELAY MODULE               |                2 |              142 |             $6.00 | [link](https://www.amazon.in/SP-Electron-Channel-Trigger-Module/dp/B0H48M9D5G/ref=sr_1_6?sr=8-6)    | 
+| 220K RESISTER              |               12 |              ₹20  |             $6.00 | [link](https://www.amazon.in/JIVITH-Resistor-Through-Hole-Electronics-Projects/dp/B0HGBF368G/ref=sr_1_18?sr=8-18)    |
+| 1K RESISTER                |               12 |              ₹20 |             $6.00 | [link](https://www.amazon.in/Electronic-Spices-Tolerance-Through-Resistors/dp/B0BF4ZY1KV/ref=sr_1_7?sr=8-7)    |
+| 3.7V lITHIUM BATERRY       |                2 |              ₹350 |             $6.00 | [link](https://www.amazon.in/2000mAh-Rechargeable-Battery-Lithium-Universal/dp/B0H31DCNBH/ref=sr_1_7?sr=8-7)    |
+| 3.7V TO 3.3V CONVERTER     |                1 |              ₹235 |             $6.00 | [link](https://www.amazon.in/Pro3D-DC-DC-Boost-Converter-Module/dp/B0CV9H28MV/ref=sr_1_3?sr=8-3)    |
+| CHARGING MODULE            |                1 |              ₹500 |             $6.00 | [link](https://example.com)    |
+| SOLDERING IRON             |                1 |              ₹500 |             $6.00 | [link](https://example.com)    |
+| SOLDERING WIRE             |                2 |              ₹500 |             $6.00 | [link](https://example.com)    |
+| SOLDERING FLUX             |                1 |              ₹500 |             $6.00 | [link](https://example.com)    |
+| MULTIMETER                 |                1 |              ₹500 |             $6.00 | [link](https://example.com)    |
+| BREAD BOARD                |                1 |              ₹249 |             $6.00 | [link](https://www.amazon.in/VIREXON-Breadboard-Compatible-Electronics-Beginners/dp/B0H93XL1NT/ref=sr_1_5_sspa?sr=8-5-spons&aref=SK516vqIt2&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)    |
 
 
 
