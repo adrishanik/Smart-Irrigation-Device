@@ -122,7 +122,7 @@ https://app.cirkitdesigner.com/project/4d06b13d-34ea-44fa-910b-c3c450ef1405
 | SOLDERING FLUX             |                1 |              ₹10 |             $0.10 | [link](https://www.amazon.in/Hillgrove-Electronic-Soldering-Equipment-Machine/dp/B0GM162J2S/ref=sr_1_20?sr=8-20)    |
 | MULTIMETER                 |                1 |              ₹150 |             $1.56 | [link](https://www.amazon.in/Electronic-Spices-Multimeter-Multipurpose-Electric/dp/B09JCJBS35/ref=sr_1_6?sr=8-6)    |
 | BREAD BOARD                |                1 |              ₹249 |             $2.60 | [link](https://www.amazon.in/VIREXON-Breadboard-Compatible-Electronics-Beginners/dp/B0H93XL1NT/ref=sr_1_5_sspa?sr=8-5-spons&aref=SK516vqIt2&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) 
-| **Total** | | |**2047** | **21.35** | ||
+| **Total** | |**2047** |**21.35** |  | ||
 
 
 
