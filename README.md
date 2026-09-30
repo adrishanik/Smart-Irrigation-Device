@@ -104,9 +104,24 @@ https://app.cirkitdesigner.com/project/4d06b13d-34ea-44fa-910b-c3c450ef1405
 <img width="1600" height="1200" alt="WhatsApp Image 2026-09-28 at 2 35 46 PM" src="https://github.com/user-attachments/assets/d3355013-e50f-4b93-9e7c-1894cb776eb7" />
 
 # Bill Of Material
-| Name          | Quantity | Total Cost (INR) | Total Cost (USD) | Link                    |
-|:--------------|:--------:|-----------------:|-----------------:|:------------------------|
-| Item 1        |        2 |             ₹500 |            $6.00 | [link](https://example.com) |    
+| Name                     | Quantity        | Total Cost in INR         | Total Cost in USD    |  Link                    |
+|:------------------------|:----------------:|---------------------:|------------------:|:-------------------------------|
+| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    | | ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    | | ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    | 
+| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
+| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
+| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
+| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
+| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
+| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
+| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
+| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
+| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
+| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
+| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
+| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
+| ESP8266                 |                2 |                 ₹500 |             $6.00 | [link](https://example.com)    |
+
+
 
 # MIT LICENSE :-
 
