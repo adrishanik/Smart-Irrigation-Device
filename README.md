@@ -50,11 +50,11 @@ https://app.cirkitdesigner.com/project/4d06b13d-34ea-44fa-910b-c3c450ef1405
 
 ## 74HC595 Shifting Register
 
-<img width="1280" height="960" alt="WhatsApp Image 2026-09-27 at 6 36 13 PM" src="https://github.com/user-attachments/assets/f8e50d79-6e9d-4df9-b2d9-3f568d1db7cd" />
+<img width="1100" height="900" alt="WhatsApp Image 2026-09-27 at 6 36 13 PM" src="https://github.com/user-attachments/assets/f8e50d79-6e9d-4df9-b2d9-3f568d1db7cd" />
 
 ## 220k ohm resister
 
-<img width="1280" height="960" alt="WhatsApp Image 2026-09-27 at 6 36 37 PM" src="https://github.com/user-attachments/assets/9202be2e-f2e3-487d-996d-242a700ec3de" />
+<img width="1100" height="900" alt="WhatsApp Image 2026-09-27 at 6 36 37 PM" src="https://github.com/user-attachments/assets/9202be2e-f2e3-487d-996d-242a700ec3de" />
 
 ## 1k ohm resister
 
