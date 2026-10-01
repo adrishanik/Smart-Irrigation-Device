@@ -87,15 +87,15 @@ https://app.cirkitdesigner.com/project/4d06b13d-34ea-44fa-910b-c3c450ef1405
 
 ## Soldering Iron
 
-<img width="1200" height="1600" alt="WhatsApp Image 2026-09-27 at 8 24 52 PM" src="https://github.com/user-attachments/assets/d3a359c8-b234-41fa-ab75-a43cb2289087" />
+<img width="1100" height="700" alt="WhatsApp Image 2026-09-27 at 8 24 52 PM" src="https://github.com/user-attachments/assets/d3a359c8-b234-41fa-ab75-a43cb2289087" />
 
 ## MultiMeter 
 
-<img width="1600" height="1200" alt="WhatsApp Image 2026-09-27 at 10 31 45 PM" src="https://github.com/user-attachments/assets/951d3e8d-1914-4c07-98b9-03ad8474ce06" />
+<img width="1100" height="700" alt="WhatsApp Image 2026-09-27 at 10 31 45 PM" src="https://github.com/user-attachments/assets/951d3e8d-1914-4c07-98b9-03ad8474ce06" />
 
 ## LCD Display
 
-<img width="1600" height="1200" alt="WhatsApp Image 2026-09-27 at 10 35 42 PM" src="https://github.com/user-attachments/assets/d5905e35-4759-49b9-996c-ad5bf42cd290" />
+<img width="1100" height="700" alt="WhatsApp Image 2026-09-27 at 10 35 42 PM" src="https://github.com/user-attachments/assets/d5905e35-4759-49b9-996c-ad5bf42cd290" />
 
 <img width="1100" height="700" alt="WhatsApp Image 2026-09-27 at 10 37 54 PM" src="https://github.com/user-attachments/assets/3e9a7a60-d359-4816-a9e0-b1b1286eab5d" />
 
