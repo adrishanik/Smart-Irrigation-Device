@@ -97,11 +97,11 @@ https://app.cirkitdesigner.com/project/4d06b13d-34ea-44fa-910b-c3c450ef1405
 
 <img width="1600" height="1200" alt="WhatsApp Image 2026-09-27 at 10 35 42 PM" src="https://github.com/user-attachments/assets/d5905e35-4759-49b9-996c-ad5bf42cd290" />
 
-<img width="1600" height="1200" alt="WhatsApp Image 2026-09-27 at 10 37 54 PM" src="https://github.com/user-attachments/assets/3e9a7a60-d359-4816-a9e0-b1b1286eab5d" />
+<img width="1100" height="700" alt="WhatsApp Image 2026-09-27 at 10 37 54 PM" src="https://github.com/user-attachments/assets/3e9a7a60-d359-4816-a9e0-b1b1286eab5d" />
 
 ## Bread Board
 
-<img width="900" height="500" alt="WhatsApp Image 2026-09-28 at 2 35 46 PM" src="https://github.com/user-attachments/assets/d3355013-e50f-4b93-9e7c-1894cb776eb7" />
+<img width="1100" height="700" alt="WhatsApp Image 2026-09-28 at 2 35 46 PM" src="https://github.com/user-attachments/assets/d3355013-e50f-4b93-9e7c-1894cb776eb7" />
 
 # Bill Of Material
 | Name                       | Quantity         | Total Cost in INR | Total Cost in USD |  Link                          |
